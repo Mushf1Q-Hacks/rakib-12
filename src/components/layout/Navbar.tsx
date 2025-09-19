@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 h-14 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <Sparkles className="h-5 w-5 text-accent" />
-          <span className="text-lg font-semibold">LoyaltyHub</span>
+          <span className="text-lg font-semibold">Product Showcase</span>
         </div>
         <div className="flex items-center gap-3">
           <Button
